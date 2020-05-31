@@ -1,2 +1,2 @@
-# sql-test
-Test basic SQL
+# Learn SQL
+Learn basic SQL examples using PostgreSQL
