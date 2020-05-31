@@ -7,6 +7,6 @@ Learn the basic syntax for the following SQL Statements
 
 # Folders
 
-    * sql : contains SQL commands
+    * sql : contains SQL files 
 
     * csv : contains data retrieved to csv
